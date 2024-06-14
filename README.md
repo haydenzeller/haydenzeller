@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hayden Zeller
+CS student exploring all there is to know about computers
+### Fun Facts
+- I use Arch, btw
+- I maintain a large homelab
+- I like tinkering with hardware and building custom PCs
+- I love learning new programming languages and frameworks
 <!--
 **haydenzeller/haydenzeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
