@@ -2,6 +2,7 @@
 CS student exploring all there is to know about computers
 ### Fun Facts
 - I use Arch, btw
+
 <!--
 **haydenzeller/haydenzeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
